@@ -1,0 +1,16 @@
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 23vh;
+    margin-left: 35vw;
+    background: rgb(233, 77, 77);
+    font-size: 400%;
+    border: 10px solid black;
+    box-shadow: 6px 7px 5px 3px;
+    height: 40vh;
+    width: 30vw;
+}
+a{
+    text-decoration: none;
+}

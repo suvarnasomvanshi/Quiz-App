@@ -1,0 +1,19 @@
+.Home{
+    height: 50vh;
+    width: 50vw;
+    display: inline;
+    padding-top: 0vh;
+    background: rgb(106, 217, 96);
+    border: 5px solid black;
+}
+
+.btn2{
+    height: 13vh;
+    width: 30vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6vh;
+    margin-left: 35vw;
+    background: #98dde1;
+}
